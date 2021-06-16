@@ -1,0 +1,84 @@
+body {
+    background-color: #333333;
+	background-image: url("fundo.bmp");
+	background-repeat: no-repeat;
+	background-position: top;
+}
+.tudo {
+	width: 1000px;
+	height: 2000px;
+    margin: 0 auto;
+	border: solid white 1px;
+	margin-top: 90px;
+}
+.topo {
+    background-image: url("csgo.jpg");
+	width: 1000px;
+	height: 450px;
+	float: top;
+}
+.vazia{
+	width: 1000px;
+	height: 395px;
+}	
+.centro {
+	background-color: #333333;
+	padding-top: 30px;
+	width: 1000px;
+	height: 500px;
+}
+
+.fundo{
+    background-image: url("counter_strike_1.jpg");
+	width: 1000px;
+	height: 625px;
+	float: bottom;
+	margin-top: 465px;
+}
+.tudo .centro .form {
+
+	margin-top: 30px;
+	width: 500px;
+	height: 400px;
+	margin-left: 50px;
+}
+.menu {
+	color: white;
+	font-family: comic sans ms;
+	font-size: 20px;
+}
+.menu li{
+	list-style-type: none;
+}
+a   { 
+	color: white;
+	text-decoration: none;
+}
+a:hover   {
+    
+	color: white;
+	margin-top: 2px;
+	margin-left: 2px;
+	margin-bottom: 2px;
+	margin-right: 2px;
+
+}
+li:hover {
+    background-image: url("bullet7.gif");
+	background-repeat: no-repeat;
+}
+.gif {
+	margin: 0 auto;
+	width: 375px;
+}
+.img  {
+	
+	width: 150px;
+	height: 50px;
+	margin: 0 auto;
+	float: left;
+}
+h1 {
+    font-family: comic sans ms;
+	color: white;
+}
